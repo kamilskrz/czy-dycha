@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "id": "VPSe8Zdg",
+      "amount": "100.0",
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-05-06T12:53:30.319992+02:00",
+      "constant_help": false,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "fundraise",
+        "id": "LZSw1Ox",
+        "title": "Łatwogang x Cancer Fighters",
+        "slug": "latwogang",
+        "archival_cause_id": null
+      }
+    },
+    {
+      "id": "YOSXona2",
+      "amount": "10000.0",
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-05-05T12:55:45.000000+02:00",
+      "constant_help": false,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "fundraise",
+        "id": "LZSw1Ox",
+        "title": "Łatwogang x Cancer Fighters",
+        "slug": "latwogang",
+        "archival_cause_id": null
+      }
+    },
+    {
+      "id": "MAS6VqM9",
+      "amount": "200.0",
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-05-05T10:38:27.000000+02:00",
+      "constant_help": false,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "fundraise",
+        "id": "LZSw1Ox",
+        "title": "Łatwogang x Cancer Fighters",
+        "slug": "latwogang",
+        "archival_cause_id": null
+      }
+    },
+    {
+      "id": "dqS0R23D",
+      "amount": "100.0",
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-05-02T13:49:51.643563+02:00",
+      "constant_help": false,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "fundraise",
+        "id": "LZSw1Ox",
+        "title": "Łatwogang x Cancer Fighters",
+        "slug": "latwogang",
+        "archival_cause_id": null
+      }
+    },
+    {
+      "id": "JES3BL4g",
+      "amount": "10.0",
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-04-30T16:43:45.000000+02:00",
+      "constant_help": false,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "fundraise",
+        "id": "LZSw1Ox",
+        "title": "Łatwogang x Cancer Fighters",
+        "slug": "latwogang",
+        "archival_cause_id": null
+      }
+    },
+    {
+      "id": "gYSdVV93",
+      "amount": "5.0",
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-04-30T16:43:45.000000+02:00",
+      "constant_help": false,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "fundraise",
+        "id": "LZSw1Ox",
+        "title": "Łatwogang x Cancer Fighters",
+        "slug": "latwogang",
+        "archival_cause_id": null
+      }
+    },
+    {
+      "id": "gYSlPl3X",
+      "amount": "1111.11",
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-04-30T14:32:43.000000+02:00",
+      "constant_help": false,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "fundraise",
+        "id": "LZSw1Ox",
+        "title": "Łatwogang x Cancer Fighters",
+        "slug": "latwogang",
+        "archival_cause_id": null
+      }
+    }
+  ]
+}

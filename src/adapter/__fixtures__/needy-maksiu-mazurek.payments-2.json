@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "id": "laS2QdxL",
+      "amount": "20.0",
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-10-12T07:01:46.535000+02:00",
+      "constant_help": true,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "needy",
+        "id": "Z1SWZN",
+        "title": "Maksymilian Mazurek",
+        "slug": "maksiu-mazurek",
+        "archival_cause_id": null
+      }
+    },
+    {
+      "id": "9BSbwY3y",
+      "amount": "10.0",
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-10-12T07:00:41.238000+02:00",
+      "constant_help": true,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "needy",
+        "id": "Z1SWZN",
+        "title": "Maksymilian Mazurek",
+        "slug": "maksiu-mazurek",
+        "archival_cause_id": null
+      }
+    },
+    {
+      "id": "66SD5NEW",
+      "amount": null,
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-10-10T07:02:44.087000+02:00",
+      "constant_help": true,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "needy",
+        "id": "Z1SWZN",
+        "title": "Maksymilian Mazurek",
+        "slug": "maksiu-mazurek",
+        "archival_cause_id": null
+      }
+    },
+    {
+      "id": "OdSY8Xqg",
+      "amount": "200.0",
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-10-10T07:02:24.021000+02:00",
+      "constant_help": true,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "needy",
+        "id": "Z1SWZN",
+        "title": "Maksymilian Mazurek",
+        "slug": "maksiu-mazurek",
+        "archival_cause_id": null
+      }
+    },
+    {
+      "id": "ZoS6ENg2",
+      "amount": "20.0",
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-10-10T07:02:20.336000+02:00",
+      "constant_help": true,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "needy",
+        "id": "Z1SWZN",
+        "title": "Maksymilian Mazurek",
+        "slug": "maksiu-mazurek",
+        "archival_cause_id": null
+      }
+    },
+    {
+      "id": "qRS6lGMY",
+      "amount": null,
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-10-10T07:01:47.564000+02:00",
+      "constant_help": true,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "needy",
+        "id": "Z1SWZN",
+        "title": "Maksymilian Mazurek",
+        "slug": "maksiu-mazurek",
+        "archival_cause_id": null
+      }
+    },
+    {
+      "id": "wASzW7a9",
+      "amount": "20.0",
+      "currency": "PLN",
+      "comment_text": null,
+      "state": "confirmed",
+      "state_changed_at": "2026-10-09T07:01:34.349000+02:00",
+      "constant_help": true,
+      "payments_count": 1,
+      "highlighted": false,
+      "payer": {
+        "id": null,
+        "name": null,
+        "sex": null,
+        "avatar_url": null,
+        "url": null,
+        "company": null
+      },
+      "subject": {
+        "type": "needy",
+        "id": "Z1SWZN",
+        "title": "Maksymilian Mazurek",
+        "slug": "maksiu-mazurek",
+        "archival_cause_id": null
+      }
+    }
+  ]
+}

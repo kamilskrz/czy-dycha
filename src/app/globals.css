@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+/* Tokeny kolorów: jasny motyw domyślnie, ciemny przez prefers-color-scheme. */
+:root {
+  --background: #ffffff;
+  --foreground: #14181f;
+  --muted: #4b5563;
+  --surface: #f5f7fa;
+  --line: #d3d9e0;
+  --accent: #0b6b4f;
+  --accent-contrast: #ffffff;
+  --chart-small: #0f766e;
+  --chart-other: #7c8aa0;
+  --warn-bg: #fff4d6;
+  --warn-fg: #6b3a05;
+  --warn-line: #d89a1c;
+  --danger-bg: #fde8e8;
+  --danger-fg: #7a1616;
+  --danger-line: #d65a5a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0b0f14;
+    --foreground: #e8ecf1;
+    --muted: #a3afbd;
+    --surface: #141b23;
+    --line: #2b3642;
+    --accent: #34d399;
+    --accent-contrast: #04130d;
+    --chart-small: #2dd4bf;
+    --chart-other: #6b7a8d;
+    --warn-bg: #33260a;
+    --warn-fg: #fde4a0;
+    --warn-line: #a8741a;
+    --danger-bg: #3a1416;
+    --danger-fg: #ffd0d0;
+    --danger-line: #a44a4a;
+  }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-surface: var(--surface);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-contrast: var(--accent-contrast);
+  --color-warn-bg: var(--warn-bg);
+  --color-warn-fg: var(--warn-fg);
+  --color-warn-line: var(--warn-line);
+  --color-danger-bg: var(--danger-bg);
+  --color-danger-fg: var(--danger-fg);
+  --color-danger-line: var(--danger-line);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+input[type="range"] {
+  accent-color: var(--accent);
+}
+
+/* Kolory słupków i osi wykresu (Recharts) z tokenów motywu. */
+.bar-small .recharts-rectangle { fill: var(--chart-small); }
+.bar-other .recharts-rectangle { fill: var(--chart-other); }
+.recharts-cartesian-axis-tick-value { fill: var(--muted); }
+.recharts-cartesian-grid line { stroke: var(--line); }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
+
+@keyframes indeterminate {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(300%); }
+}
